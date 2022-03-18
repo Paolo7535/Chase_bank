@@ -3,3 +3,6 @@ Paolo
 Orock
 Andrew
 Chava
+Marriette
+Minette
+Pamela 
