@@ -6,3 +6,4 @@ Chava
 Marriette
 Minette
 Pamela 
+buged removed, application ready 
