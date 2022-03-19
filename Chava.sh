@@ -7,3 +7,4 @@ Marriette
 Minette
 Pamela 
 buged removed, application ready 
+Open an account with TD abd get 100
